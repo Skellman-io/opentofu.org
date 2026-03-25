@@ -273,6 +273,11 @@ const config: Config = {
           position: "left",
         },
         {
+          to: "/docs/intro/install/",
+          label: "Install",
+          position: "left",
+        },
+        {
           type: "dropdown",
           to: "/docs",
           label: "Docs",
