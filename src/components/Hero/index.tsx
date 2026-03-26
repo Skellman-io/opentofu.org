@@ -56,6 +56,13 @@ export default function Hero() {
               </Button>
               <Button
                 variant="secondary"
+                href="/docs/intro/install/"
+                className="w-full sm:w-auto"
+              >
+                Install
+              </Button>
+              <Button
+                variant="secondary"
                 href="https://github.com/opentofu/opentofu"
                 className="w-full sm:w-auto"
               >
