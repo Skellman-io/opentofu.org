@@ -49,17 +49,10 @@ export default function Hero() {
             <div className="flex flex-col sm:flex-row gap-4 justify-start">
               <Button
                 variant="primary"
-                href="/docs/intro"
-                className="w-full sm:w-auto"
-              >
-                Get Started
-              </Button>
-              <Button
-                variant="secondary"
                 href="/docs/intro/install/"
                 className="w-full sm:w-auto"
               >
-                Install
+                Get Started
               </Button>
               <Button
                 variant="secondary"
